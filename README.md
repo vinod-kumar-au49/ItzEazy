@@ -1,0 +1,2 @@
+# ItzEazy
+Frontend project 
