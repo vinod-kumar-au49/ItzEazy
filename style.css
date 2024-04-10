@@ -1,0 +1,70 @@
+.dropdown-menu {
+
+    max-height: 100px;
+    overflow-y: scroll;
+
+}
+
+.s2 {
+    margin-left: 5px;
+}
+
+.form-control {
+    text-align: center;
+    border: 10px;
+    background-color: aqua;
+
+
+}
+
+.form-control2 {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+
+
+
+    background-color: aqua;
+
+
+}
+
+
+
+.main {
+    margin: 30px;
+    text-align: center;
+
+
+
+}
+
+.mainhead {
+    padding-right: 100px;
+}
+
+.licenseform {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+.licensehead {
+    text-align: center;
+    color: red;
+}
+
+.licenseText {
+    text-align: center;
+    font-weight: 100;
+    font-size: x-small;
+    padding-left: 80px;
+
+}
+
+.form-control3 {
+    border-radius: 10px;
+    background-color: light beige;
+}
